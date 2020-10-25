@@ -4,6 +4,6 @@ This is just a simple template repository that I use to start my git repos from 
 
 ## Donate
 
-Buy me a [CANADIAN ITEM] for providing this [extension|app|script] open source and for free :)
+Buy me a [CANADIAN ITEM] for providing this [EXTENSION|APP|SCRIPT] open source and for free :)
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/deadlydogDan/5USD)
