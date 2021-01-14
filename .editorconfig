@@ -1,6 +1,7 @@
 # This file should only include settings that affect the physical contents of the file, not just how it appears in an editor.
-# Do not include personal preference meta-data settings like a tab's `indent_size` in this file; those should be specified in a parent .editorconfig file outside of the repository.
-# v1.2
+# Do not include personal preference meta-data settings like a tab's `indent_size` in this file; those should be specified in
+# a parent .editorconfig file outside of the repository.
+# v1.3
 
 # Ensure that personal preference meta-settings can be inherited from parent .editorconfig files.
 root = false
@@ -9,6 +10,7 @@ root = false
 indent_style = tab
 end_of_line = crlf
 trim_trailing_whitespace = true
+insert_final_newline = true
 
 [*.{md,psd1,pp,yml,yaml}]
 indent_style = space
