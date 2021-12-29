@@ -2,6 +2,26 @@
 
 This is just a simple template repository that I use to start my git repos from to avoid having to add some boilerplate things.
 
+## Description
+
+A short description of what this project does.
+
+## Why this exists
+
+A short description of why this project exists.
+What use-case is it meant to solve?
+
+## Quick start
+
+A quick guide on how to get started with this project.
+Install a NuGet Package?
+Code snippets?
+Links to wiki or other documentation.
+
+## How to contribute
+
+Issues and Pull Requests are welcome.
+
 ## Changelog
 
 See what's changed in the application over time by viewing [the changelog](Changelog.md).
