@@ -21,6 +21,7 @@ Links to wiki or other documentation.
 ## How to contribute
 
 Issues and Pull Requests are welcome.
+See [the Contributing page](Contributing.md) for more details.
 
 ## Changelog
 
