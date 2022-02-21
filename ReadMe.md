@@ -2,34 +2,34 @@
 
 This is just a simple template repository that I use to start my git repos from to avoid having to add some boilerplate things.
 
-## Description
+## 💬 Description
 
 A short description of what this project does.
 
-## Why this exists
+## ❓ Why this exists
 
 A short description of why this project exists.
 What use-case is it meant to solve?
 
-## Quick start
+## 🚀 Quick start
 
 A quick guide on how to get started with this project.
 Install a NuGet Package?
 Code snippets?
 Links to wiki or other documentation.
 
-## How to contribute
+## ➕ How to contribute
 
 Issues and Pull Requests are welcome.
 See [the Contributing page](Contributing.md) for more details.
 
-## Changelog
+## 📃 Changelog
 
 See what's changed in the application over time by viewing [the changelog](Changelog.md).
 
-## Donate
+## 💳 Donate
 
-Buy me a [CANADIAN ITEM] for providing this [EXTENSION|APP|SCRIPT] open source and for free :)
+Buy me a [CANADIAN ITEM] for providing this [EXTENSION|APP|SCRIPT] open source and for free 🙂
 
 FOR A GENERIC DONATE LINK USE THIS BUTTON
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/deadlydogDan/5USD)
