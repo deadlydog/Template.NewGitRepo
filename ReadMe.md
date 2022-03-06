@@ -21,11 +21,11 @@ Links to wiki or other documentation.
 ## ➕ How to contribute
 
 Issues and Pull Requests are welcome.
-See [the Contributing page](Contributing.md) for more details.
+See [the Contributing page](docs/Contributing.md) for more details.
 
 ## 📃 Changelog
 
-See what's changed in the application over time by viewing [the changelog](Changelog.md).
+See what's changed in the application over time by viewing [the changelog](docs/Changelog.md).
 
 ## 💳 Donate
 
