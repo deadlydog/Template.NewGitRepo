@@ -7,7 +7,9 @@ See the [Architecture Decision Record](https://github.com/joelparkerhenderson/ar
 
 ## Document format
 
-The ADR file name should be prefixed with a number. e.g. `001-Use-ADRs-for-decisions.md`.
+The ADR file name should be prefixed with an incrementing, sequential number.
+This shows the order in which decisions were made over the lifetime of the project.
+e.g. `001-Use-ADRs-for-decisions.md`.
 
 Here is an example of the sections that an ADR typically includes:
 
