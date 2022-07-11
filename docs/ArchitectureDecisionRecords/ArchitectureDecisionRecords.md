@@ -1,7 +1,7 @@
-# Architecture Decision Record (ADR)
+# Architecture Decision Records (ADR)
 
 Here is where we log decisions we make about the architecture of the project.
-Each decision will have it's own dedicated ADR file.
+Each decision will have it's own dedicated ADR file in this directory.
 
 See the [Architecture Decision Record](https://github.com/joelparkerhenderson/architecture-decision-record) for more details of what an ADR is and common formats for it.
 
