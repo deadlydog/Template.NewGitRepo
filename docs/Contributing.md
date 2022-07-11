@@ -14,4 +14,4 @@ If you open an issue, please:
 
 ## Why is it like this?
 
-If you are curious why something is the way it is, it may be documented in the [Architecture Decision Record](docs/ArchitectureDecisionRecord.md).
+If you are curious why something is the way it is, it may be documented in the [Architecture Decision Records](/docs/ArchitectureDecisionRecords/ArchitectureDecisionRecord.md).
