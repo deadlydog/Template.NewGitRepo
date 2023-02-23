@@ -7,10 +7,11 @@ Feel free to open an issue or pull request.
 If you open an issue, please:
 
 - Indicate whether it is a bug or feature enhancement.
-- Provide a detailed description, including:
-  - any error messages
+- For bugs, provide a detailed description, including:
+  - any error messages and reproduction steps
   - log output or files
   - screenshots, gifs, or videos
+  - example code
 
 ## Why is it like this?
 
