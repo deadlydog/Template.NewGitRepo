@@ -27,11 +27,6 @@ See [the Contributing page](docs/Contributing.md) for more details.
 
 See what's changed in the application over time by viewing [the changelog](docs/Changelog.md).
 
-## ⁉ Why was a specific decision made
-
-Curious about some of the choices made in this project?
-Check out the [Architecture Decision Records](docs/ArchitectureDecisionRecords) to see why certain decisions were made.
-
 ## 💳 Donate
 
 Buy me a [CANADIAN ITEM] for providing this [EXTENSION|APP|SCRIPT] open source and for free 🙂
