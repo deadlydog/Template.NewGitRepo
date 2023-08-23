@@ -1,6 +1,6 @@
 # Use 'git add --renormalize .' to apply rules to files added to the repository before the .gitattributes file.
 
-# Auto detect text files and perform LF normalization
+# Auto detect text files and perform LF normalization.
 * text=auto
 
 # Documents
@@ -31,7 +31,7 @@
 *.tif binary
 *.tiff binary
 *.ico binary
-# SVG treated as an asset (binary) by default. If you want to treat it as text, comment-out the following line and uncomment the line after.
+# SVG treated as an asset (binary) by default, but it's actually just a text file so let's treat it as one.
 #*.svg binary
 *.svg text
 *.eps binary
