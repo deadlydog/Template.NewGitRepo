@@ -1,3 +1,5 @@
+# Use 'git add --renormalize .' to apply rules to files added to the repository before the .gitattributes file.
+
 # Auto detect text files and perform LF normalization
 * text=auto
 
