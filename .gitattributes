@@ -2,7 +2,7 @@
 
 # Have GitHub language statistics ignore generated files.
 #	More info: https://github.com/github-linguist/linguist/blob/master/docs/overrides.md
-#generatedFiles/ linguist-generated=true
+#generatedFiles/** linguist-generated=true
 
 # Auto detect text files and perform LF normalization.
 * text=auto
