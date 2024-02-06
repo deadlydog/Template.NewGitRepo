@@ -1,9 +1,15 @@
+### Summary
+
+A brief summary of the change this PR brings.
+
 ### Checklist
 
-Related issue number (if applicable): Addresses issue #ISSUE_NUMBER
+Addresses issue #ISSUE_NUMBER (if applicable)
 
 - [ ] Tests have been added for this code change (if applicable)
 - [ ] Docs have been added or updated (if applicable)
+- [ ] Code format follows the project style
+- [ ] All new and existing tests passed
 
 ### What type of changes does this PR include
 
@@ -11,14 +17,10 @@ Related issue number (if applicable): Addresses issue #ISSUE_NUMBER
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
-### What is the current behaviour?
+### Describe the change
 
-Describe the behaviour before your change.
+What is the motivation for this change? What does it do? What problem does it solve?
 
-### What is the new behaviour?
+### Additional information
 
-Describe the behaviour after your change.
-
-### Additional context
-
-Any other information about the change here.
+Any other information about the change, such as screenshots, example flows, etc.
