@@ -1,6 +1,6 @@
 ### Checklist
 
-Related issue number (if applicable): #ISSUE_NUMBER
+Related issue number (if applicable): Addresses issue #ISSUE_NUMBER
 
 - [ ] Tests have been added for this code change (if applicable)
 - [ ] Docs have been added or updated (if applicable)
