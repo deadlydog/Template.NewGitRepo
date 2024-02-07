@@ -27,7 +27,7 @@ See [the Contributing page](docs/Contributing.md) for more details.
 
 See what's changed in the application over time by viewing [the changelog](Changelog.md).
 
-## ❤ Donate
+## ❤ Donate to support this project
 
 Buy me a [CANADIAN ITEM] for providing this [EXTENSION|APP|SCRIPT] open source and for free 🙂
 
