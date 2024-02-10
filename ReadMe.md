@@ -1,6 +1,7 @@
 # Template Git Repository
 
 A template repository that I start my git repos from with common boilerplate things already added.
+Don't forget to also update the [License](/License.md) and [Contributing](/docs/Contributing.md) files.
 
 ## 💬 Description
 
