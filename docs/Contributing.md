@@ -6,7 +6,11 @@ Feel free to open an issue or pull request.
 
 LIST THE TECHNOLOGIES USED IN THIS PROJECT
 
-## 🏗 Build and deployment
+## 🏃‍♂️ Building and running locally
+
+DESCRIBE HOW TO BUILD, RUN, AND DEBUG THE PROJECT LOCALLY
+
+## 🏗 Build and deployment pipelines
 
 DESCRIBE HOW NEW BUILDS AND DEPLOYMENTS ARE CREATED, AND HOW VERSIONING IS DONE
 
