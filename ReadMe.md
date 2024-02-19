@@ -23,6 +23,7 @@ List the features of this project:
 
 A quick guide on how to get started with this project.
 Install a NuGet Package?
+A link to download the latest version from (releases page, PowerShell Gallery, etc)?
 Code snippets?
 Links to wiki or other documentation.
 
