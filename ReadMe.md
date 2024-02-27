@@ -27,12 +27,12 @@ A link to download the latest version from (releases page, PowerShell Gallery, e
 Code snippets?
 Links to wiki or other documentation.
 
-## ➕ How to contribute
+## ✋ How to contribute
 
 Issues and Pull Requests are welcome.
 See [the Contributing page](docs/Contributing.md) for more details.
 
-## 📃 Changelog
+## ⏪ Changelog
 
 See what's changed in the application over time by viewing [the changelog](Changelog.md).
 
