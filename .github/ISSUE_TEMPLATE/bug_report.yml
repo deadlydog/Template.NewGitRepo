@@ -1,7 +1,7 @@
 name: 🐞 Bug report
 description: File a bug/issue
 title: "Bug: <title>"
-labels: ["Bug"]
+labels: ["bug"]
 body:
 - type: checkboxes
   attributes:
