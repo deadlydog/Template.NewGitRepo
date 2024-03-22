@@ -33,7 +33,7 @@ body:
   attributes:
     label: Environment
     description: |
-      Examples:
+      Information about the environment where the issue is occurring. Examples:
         - Device: (e.g. PC, iPhone 12)
         - OS and version: (e.g. Windows 10, iOS 12.3.1)
         - Browser and version: (e.g. Chrome 121.0.6167.140, Safari 12.1.2)
