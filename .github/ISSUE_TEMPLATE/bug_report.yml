@@ -24,9 +24,9 @@ body:
     description: Steps to reproduce the behavior.
     placeholder: |
       1. In this environment...
-      1. With this config...
-      1. Run '...'
-      1. See error...
+      2. With this config...
+      3. Run '...'
+      4. See error...
   validations:
     required: true
 - type: textarea
@@ -41,13 +41,12 @@ body:
     value: |
         - OS and version:
         - Application version:
-    render: markdown
   validations:
     required: false
 - type: textarea
   attributes:
     label: Visuals
-    description: If applicable, add screenshots, gifs, or videos to help explain the problem.
+    description: Add screenshots, gifs, or videos to help explain the problem.
     placeholder: |
       Here is a screenshot of the problem after I do '...':
       ![Screenshot](https://example.com/screenshot.png)
@@ -60,8 +59,8 @@ body:
   attributes:
     label: Anything else?
     description: |
-      Logs files (with sensitive information removed)? Error messages? Links? References?
-      Add any other context or information about the problem or how to reproduce it.
+      Any other context or information about the problem or how to reproduce it.
+      e.g. Logs files (with sensitive information removed), error messages, links, references, etc.
 
       Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
   validations:

@@ -22,7 +22,7 @@ body:
 - type: textarea
   attributes:
     label: Summary
-    description: Describe the solution you'd like
+    description: Describe the solution you'd like.
     placeholder: |
       A clear and concise description of what you want to happen.
   validations:
@@ -30,8 +30,7 @@ body:
 - type: textarea
   attributes:
     label: Alternative solutions
-    description: Describe any alternative solutions you've considered
-    render: markdown
+    description: Describe any alternative solutions you've considered that may address the issue.
   validations:
     required: false
 - type: textarea
