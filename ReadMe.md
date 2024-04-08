@@ -7,6 +7,8 @@ Anyone is welcome to use this template.
 
 A short description of what this project does.
 
+If you enjoy this project, consider giving it a GitHub star ⭐ to show your support.
+
 ## ❓ Why this exists
 
 A short description of why this project exists.
