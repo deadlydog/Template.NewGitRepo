@@ -9,7 +9,7 @@ See the [Architecture Decision Record](https://github.com/joelparkerhenderson/ar
 
 The ADR file name should be prefixed with an incrementing, sequential number.
 This shows the order in which decisions were made over the lifetime of the project.
-e.g. `001-Use-ADRs-for-decisions.md`.
+e.g. `0001-Use-ADRs-for-decisions.md`.
 
 Here is an example of the sections that an ADR typically includes:
 
@@ -42,7 +42,7 @@ What individuals, teams, vendor documentation, and/or articles were consulted wh
 And an example of what an ADR might actually look like:
 
 ```markdown
-# 001 - Record Architecture Decisions
+# 0001 - Record Architecture Decisions
 
 ## Status
 
