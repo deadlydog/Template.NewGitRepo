@@ -21,6 +21,10 @@ List the features of this project:
 - Feature 1
 - Feature 2
 
+## 🖼️ Screenshots
+
+A screenshot or two showing the project in action and the results.
+
 ## 🚀 Quick start
 
 A quick guide on how to get started with this project.
@@ -38,17 +42,17 @@ See [the Contributing page](docs/Contributing.md) for more details.
 
 See what's changed in the application over time by viewing [the changelog](Changelog.md).
 
-## ❤ Donate to support this project
+## ❤️ Donate to support this project
 
 Buy me a [CANADIAN ITEM] for providing this [EXTENSION|APP|SCRIPT] open source and for free 🙂
 
 FOR A GENERIC DONATE LINK USE THIS BUTTON
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/deadlydogDan/5USD)
 
-FOR AN APP SPECIFIC DONATE LINK [GO HERE](https://www.paypal.com/cgi-bin/webscr?cmd=_button-management) AND CREATE A NEW BUTTON, THEN REPLACE THE `BUTTON_ID_GOES_HERE` WITH THE NEW BUTTON'S ID
+FOR AN APP SPECIFIC DONATE LINK [GO HERE](https://www.paypal.com/buttons/) AND CLICK ON THE DONATE LINK, AND THEN "Customize a button" TO CREATE A NEW BUTTON, THEN REPLACE THE `BUTTON_ID_GOES_HERE` WITH THE NEW BUTTON'S ID
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BUTTON_ID_GOES_HERE)
 
-### ✔ Update boilerplate repo files
+### ✔️ Update boilerplate repo files
 
 While anyone is free to use this template, some of the content is specific to my personal information and how I like to structure my projects, so that information should be updated or removed.
 
