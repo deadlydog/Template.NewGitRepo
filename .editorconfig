@@ -1,7 +1,7 @@
 # This file should only include settings that affect the physical contents of the file, not just how it appears in an editor.
 # Do not include personal preference presentation settings like a tab's `indent_size` in this file; those should be specified
 # in a parent .editorconfig file outside of the repository.
-# v1.7
+# v1.8
 
 # Ensure that personal preference presentation settings can be inherited from parent .editorconfig files.
 root = false
@@ -20,6 +20,9 @@ trim_trailing_whitespace = true
 indent_style = space
 indent_size = 2
 
+# Unix files often will not run (or cannot be found) on Linux if they use CRLF line endings.
+[*.sh]
+end_of_line = lf
 
 #### .NET Coding Conventions ####
 
