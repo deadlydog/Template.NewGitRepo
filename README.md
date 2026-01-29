@@ -36,11 +36,11 @@ Links to wiki or other documentation.
 ## ✋ How to contribute
 
 Issues and Pull Requests are welcome.
-See [the Contributing page](docs/Contributing.md) for more details.
+See [the Contributing page](docs/CONTRIBUTING.md) for more details.
 
 ## ⏪ Changelog
 
-See what's changed in the application over time by viewing [the changelog](Changelog.md).
+See what's changed in the application over time by viewing [the Changelog](CHANGELOG.md).
 
 ## ❤️ Donate to support this project
 
@@ -58,14 +58,14 @@ While anyone is free to use this template, some of the content is specific to my
 
 Files containing Dan's personal information that should be updated:
 
-- [License](/License.md): Update to match your project's license, and ensure it uses the correct name in the copyright.
+- [LICENSE](/LICENSE.md): Update to match your project's license, and ensure it uses the correct name in the copyright.
 - [CODEOWNERS](/.github/CODEOWNERS): Update to match your project's maintainers, or remove this file.
 - [FUNDING](/.github/FUNDING.yml): Update to match your project's donation information, or remove this file.
-- [ReadMe](/ReadMe.md): Update with your project's information, and remove the Donate section or update it to not use Dan's links.
+- [README](/README.md): Update with your project's information, and remove the Donate section or update it to not use Dan's links.
 
 Other boilerplate git repository files that should be reviewed and updated or removed as needed:
 
-- [Changelog](/Changelog.md): If you don't plan to track a changelog, remove this file and it's reference from the ReadMe.
-- [Contributing](/docs/Contributing.md): Update to match your project's contributing guidelines and complete the sections that need more information, or remove it.
+- [CHANGELOG](/CHANGELOG.md): If you don't plan to track a changelog, remove this file and it's reference from the ReadMe.
+- [CONTRIBUTING](/docs/CONTRIBUTING.md): Update to match your project's contributing guidelines and complete the sections that need more information, or remove it.
 - [Architectural Decision Records](/docs/ArchitectureDecisionRecords/): Remove this directory if you don't plan to use ADRs, and it's reference from the Contributing page.
 - [bug_report](/.github/ISSUE_TEMPLATE/bug_report.md), [feature_request](/.github/ISSUE_TEMPLATE/feature_request.md), [pull_request_template](/.github/pull_request_template.md): Update the bug report, feature request, and pull request templates as needed to meet your requirements, or remove them.
