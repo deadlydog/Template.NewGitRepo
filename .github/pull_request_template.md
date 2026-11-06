@@ -4,7 +4,7 @@ A brief summary of the change this PR brings.
 
 ### Checklist
 
-Addresses issue #ISSUE_NUMBER (if applicable)
+Addresses issue #ISSUE_NUMBER (if applicable) (Use AB#WORK_ITEM_ID for Azure DevOps)
 
 - [ ] Tests have been added for this code change (if applicable)
 - [ ] Docs have been added or updated (if applicable)
